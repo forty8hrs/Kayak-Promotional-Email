@@ -8,41 +8,41 @@ Live Demo
 
 🔗 https://kayak-promo-email.netlify.app
 
-Features
+Features:
 
-Responsive HTML email layout
+-Responsive HTML email layout
 
-Mobile-friendly design for multiple screen sizes
+-Mobile-friendly design for multiple screen sizes
 
-Travel promotion marketing layout
+-Travel promotion marketing layout
 
-Clean and structured HTML/CSS code
+-Clean and structured HTML/CSS code
 
-Optimized for email client compatibility
+-Optimized for email client compatibility
 
-Deployed using Netlify
+-Deployed using Netlify
 
-Technologies Used
+Technologies Used:
 
-HTML5
+-HTML5
 
-CSS3
+-CSS3
 
-Responsive Email Design
+-Responsive Email Design
 
-Netlify (deployment)
+-Netlify (deployment)
 
-What This Project Demonstrates
+What This Project Demonstrates:
 
-Front-end development for email marketing
+-Front-end development for email marketing
 
-Responsive design techniques for email templates
+-Responsive design techniques for email templates
 
-Structuring promotional email campaigns
+-Structuring promotional email campaigns
 
-UI/UX design for travel marketing emails
+-UI/UX design for travel marketing emails
 
-Hosting and deploying projects with Netlify
+-Hosting and deploying projects with Netlify
 
 Disclaimer
 
